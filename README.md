@@ -13,7 +13,7 @@
 
 Add the DockerHub username and access Token in Github repository
 
-1. In github repository > settings > secrets > New repository secrets
+1. In github repository > settings > secrets and variables > actions > New repository secrets
 2. Name >  enter a name, eg: DockerHub_User
 3. In value > enter username used to login to DockerHub
 4. Add Secret
